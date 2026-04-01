@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# Models (zu groß für Git — per Hand ablegen)
+backend/models/*.pt
+
+# Node
+dashboard/node_modules/
+dashboard/dist/
+
+# System
+.DS_Store
+Thumbs.db
