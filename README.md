@@ -61,34 +61,6 @@ Die ngrok-URL erscheint im Terminal — ins Dashboard eintragen.
 
 ---
 
-## Schritt 3 — Dashboard auf GitHub Pages deployen
-
-### 3a — `vite.config.js` anpassen
-
-```js
-base: "/DEIN_REPO_NAME/",   // z.B. "/box-monitor/"
-```
-
-### 3b — GitHub Pages aktivieren
-
-Repo → Settings → Pages → Source: **GitHub Actions**
-
-### 3c — Pushen → fertig
-
-```bash
-git add .
-git commit -m "feat: initial setup"
-git push origin main
-```
-
-Der GitHub-Actions-Workflow baut das Dashboard automatisch und deployed es auf:
-
-```
-https://DEIN_USERNAME.github.io/box-monitor/
-```
-
----
-
 ## API-Endpunkte
 
 | Endpunkt | Beschreibung |
@@ -100,7 +72,7 @@ https://DEIN_USERNAME.github.io/box-monitor/
 
 ---
 
-## Empfohlene Datasets (Roboflow)
+## Genutzte Datasets (Roboflow)
 
 | Dataset | Bilder | Link |
 |---|---|---|
