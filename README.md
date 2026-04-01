@@ -84,11 +84,11 @@ Die ngrok-URL erscheint im Terminal — ins Dashboard eintragen.
 
 ## Ergebnisse best (1).pt: 
 Validierungsergebnis:
-   mAP50:     0.787   ✅;
-   mAP50-95:  0.431   ⚠️  Ziel: > 0.50;
-   Precision: 0.830;
-   Recall:    0.699;
-
+   mAP50:     0.787   ✅  
+   mAP50-95:  0.431   ⚠️  Ziel: > 0.50  
+   Precision: 0.830  
+   Recall:    0.699  
+<img src="Download (2).png" width="500" />
    Klassen: ['Apple', 'Banana', 'Bone', 'Bone-fish', 'Bread', 'Bun', 'Candy', 'Carrot', 'Cheese', 'Chicken nugget', 'Chips packaged', 'Chocolate bar packaged', 'Cookie', 'Egg-hard', 'Egg-scramble', 'Egg-shell', 'Egg-steam', 'Egg-yolk', 'Frutta secca', 'Lemon', 'Meat', 'Merendine', 'Merendine packaged', 'Milk', 'Mushroom', 'Mussel', 'Mussel-shell', 'Noodle', 'Orange', 'Orange-peel', 'Pasta al ragu', 'Pasta with carbonara sauce', 'Pear', 'Pear-peel', 'Potato', 'Pumpkin', 'Rare cheese cake', 'Rice', 'Shrimp', 'Shrimp-shell', 'Strawberry', 'Tofu', 'Tomato', 'Vegetable', 'Zucchini', 'apple', 'avocado', 'beef', 'blueberries', 'butter', 'chicken', 'chicken_breast', 'chocolate', 'corn', 'eggs', 'flour', 'goat_cheese', 'green_beans', 'ground_beef', 'ham', 'heavy_cream', 'lime', 'onion', 'spinach', 'sugar', 'sweet_potato', 'yogurt']
 
-   <img src="Download (3).png" width="300" />
+   <img src="Download (3).png" width="500" />
